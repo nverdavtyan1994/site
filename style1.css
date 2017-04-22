@@ -10,9 +10,9 @@
 body {
    
    background-image: url(beach-22.jpg);
-   background-repeat: no-repeat;
+   background-repeat: 100% 100% no-repeat ;
    background-position: top center;
-   	background-size: 1800px 1600px;
+   	
 
    
 }
